@@ -4,4 +4,4 @@ Studied and Analyzed the Engineering Graduate Salary dataset to applying ML mode
 
 COLAB NOTEBOOK:https://drive.google.com/file/d/1CX06e29AcAkeYIPgo8RmNRR9MRurwEfB/view?usp=sharing
 
-PDF FILE LINK:https://drive.google.com/file/d/1lTjoBlvuGhs-iQmJICkMakTFPp_nagE-/view?usp=drive_link
+PDF FILE LINK: https://drive.google.com/file/d/1F5GbgI-50l_uiYLmJ_YlndQGo-GYLdyF/view?usp=sharing
